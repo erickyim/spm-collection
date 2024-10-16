@@ -10,6 +10,24 @@
     ],
     "packages": [
         {
+            "url": "https://github.com/SDWebImage/SDWebImage"
+        },
+        {
+            "url": "https://github.com/SDWebImage/SDWebImageWebPCoder"
+        },
+        {
+            "url": "https://github.com/CocoaLumberjack/CocoaLumberjack"
+        },
+        {
+            "url": "https://github.com/ccgus/fmdb"
+        },
+        {
+            "url": "https://github.com/pujiaxin33/JXPagingView"
+        },
+        {
+            "url": "https://github.com/pujiaxin33/JXSegmentedView"
+        },
+        {
             "url": "https://github.com/Alamofire/Alamofire.git"
         },
         {

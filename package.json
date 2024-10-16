@@ -1,0 +1,67 @@
+{
+    "name": "neveremo",
+    "swiftVersion": "6.0",
+    "overview": "This collection contains the our favorite Swift packages.",
+    "author": {
+        "name": "Neveremo"
+    },
+    "keywords": [
+        "favorite"
+    ],
+    "packages": [
+        {
+            "url": "https://github.com/Alamofire/Alamofire.git"
+        },
+        {
+            "url": "https://github.com/Alamofire/AlamofireImage.git"
+        },
+        {
+            "url": "https://github.com/SwiftyJSON/SwiftyJSON.git"
+        },
+        {
+            "url": "https://github.com/SVProgressHUD/SVProgressHUD.git"
+        },
+        {
+            "url": "https://github.com/erickyim/ImageRow"
+        },
+        {
+            "url": "https://github.com/Alamofire/Alamofire/"
+        },
+        {
+            "url": "https://github.com/Alamofire/AlamofireImage"
+        },
+        {
+            "url": "https://github.com/Moya/Moya"
+        },
+        {
+            "url": "https://github.com/zenangst/Hue"
+        },
+        {
+            "url": "https://github.com/acegg/IQKeyboardManagerSwift"
+        },
+        {
+            "url": "https://github.com/Xiaoye220/EmptyDataSet-Swift"
+        },
+        {
+            "url": "https://github.com/mxcl/PromiseKit"
+        },
+        {
+            "url": "https://github.com/SnapKit/SnapKit"
+        },
+        {
+            "url": "https://github.com/banchichen/TZImagePickerController"
+        },
+        {
+            "url": "https://github.com/ElaWorkshop/TagListView"
+        },
+        {
+            "url": "https://github.com/CoderMJLee/MJRefresh"
+        },
+        {
+            "url": "https://github.com/suzuki-0000/SKPhotoBrowser"
+        },
+        {
+            "url": "https://github.com/WenchaoD/FSPagerView"
+        }
+    ]
+}
